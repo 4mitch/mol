@@ -1,0 +1,10 @@
+{
+  "name": "mol_app_todomvc",
+  "version": "0.0.0",
+  "main": "node.js",
+  "module": "web.esm.js",
+  "browser": "web.esm.js",
+  "dependencies": {
+    "jsdom": "*"
+  }
+}
